@@ -7,9 +7,6 @@
 CloudSpike is a SaaS AI Platform and was built with Next.js 13, React, Tailwind CSS, Prisma, Stripe, Clark Auth, and Vercel. It offers a variety of AI tools, including image generation, video generation, code generation, and chatbot. Goal is to have a good platform that users find helpful.
 
 It was created from the Tutorial from @CodeWithAntonio (AI SaaS Platform)
-## Roadmap
-
-Check the Issue Tab on this Repo
 
 ## Install & Run 
 
@@ -40,9 +37,8 @@ Start the project
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 ## Deployment (Vercel)
 
-We use Vercel to deploy. So just do a merge Request on Master and if accepted it will automatically deploy. A preview will automatically deploy for your merge Request and Branch.
+We used Vercel to deploy.
 
-Vercel will comment under the merge request. Vercel automatically handles the environments no need to change.
 ## Tech Stack
 
 - Next.js 13
@@ -62,11 +58,6 @@ Vercel will comment under the merge request. Vercel automatically handles the en
 | Secondary Blue | ![#2b5664](https://via.placeholder.com/10/2b5664?text=+) #2b5664 |
 | Secondary Green | ![#417c80](https://via.placeholder.com/10/417c80?text=+) #417c80 |
 | Primary Green | ![#58a29d](https://via.placeholder.com/10/58a29d?text=+) #58a29d |
-
-
-## Support
-
-If you have any questions or feedback, please write me on Discord (omgitsjan).
 
 ### Learn More
 
